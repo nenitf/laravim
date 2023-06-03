@@ -1,6 +1,6 @@
 ---@diagnostic disable: undefined-global
-describe("template", function()
+describe("laravim", function()
   it("can be required", function()
-    require("template")
+    require("laravim")
   end)
 end)

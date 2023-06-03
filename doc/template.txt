@@ -1,9 +1,0 @@
-*template.txt* *template*
-A template
-
-COMMANDS
-
-*:Template*
-Template template
-
-vim:tw=78:et:ft=help:norl:

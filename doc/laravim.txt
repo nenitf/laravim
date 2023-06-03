@@ -1,0 +1,4 @@
+*laravim.txt* *laravim*
+Utilitários para trabalhar com Laravel
+
+vim:tw=78:et:ft=help:norl:

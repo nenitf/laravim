@@ -1,8 +1,8 @@
-# template
+# laravim
 
-Template template
+Utilitários para trabalhar com [Laravel](https://laravel.com/).
 
-Leia `:help template`.
+Leia `:help laravim`.
 
 ## Installation
 
@@ -10,21 +10,12 @@ Leia `:help template`.
 
 ```lua
 use {
-    'nenitf/template',
+    'nenitf/laravim',
     requires = {
       'nvim-lua/plenary.nvim',
     },
     config = function()
-      require('template').setup()
+      require('laravim').setup()
     end,
 }
 ```
-
-## Configuration
-
-```lua
-local default_config = {
-}
-```
-
-- `#.#`: Template
