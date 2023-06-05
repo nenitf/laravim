@@ -11,9 +11,6 @@ Leia `:help laravim`.
 ```lua
 use {
     'nenitf/laravim',
-    requires = {
-      'nvim-lua/plenary.nvim',
-    },
     config = function()
       require('laravim').setup()
     end,

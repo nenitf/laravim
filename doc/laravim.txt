@@ -1,4 +1,9 @@
 *laravim.txt* *laravim*
 Utilitários para trabalhar com Laravel
 
+COMMANDS
+
+*:LaravimGoToConfig*
+Acessa configuração `config('arquivo.path.path.config')` abaixo do cursor
+
 vim:tw=78:et:ft=help:norl:
