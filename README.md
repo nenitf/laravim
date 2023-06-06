@@ -11,6 +11,9 @@ Leia `:help laravim`.
 ```lua
 use {
     'nenitf/laravim',
+    requires = {
+      'nvim-treesitter/nvim-treesitter',
+    },
     config = function()
       require('laravim').setup()
     end,
